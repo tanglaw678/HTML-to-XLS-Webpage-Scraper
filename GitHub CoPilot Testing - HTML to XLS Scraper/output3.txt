@@ -1,0 +1,61 @@
+[Title: APITable/APITable GVP 779 React JavaScript TypeScript Spring Nestjs TypeScript 低代码
+Language: TypeScript
+Stars: 779
+HTML Content: vika.cn维格表社区版，地表至强的开源低代码、多维表格工具，Airtable的开源免费替代，智能表格与数据库的结合。
+, Title: peng-zhihui/Dummy-Robot 774 机器人
+Language: 
+Stars: 774
+HTML Content: 我的超迷你机械臂机器人项目
+, Title: 腾讯开源/TencentOS-tiny GVP 765 C IOT/物联网/边缘计算
+Language: C
+Stars: 765
+HTML Content: TencentOS tiny 是腾讯面向物联网领域开发的实时操作系统，具有低功耗，低资源占用，模块化，安全可靠等特点，可有效提升物联网终端产品开发效率
+, Title: TDengine/TDengine GVP 758 C IOT/物联网/边缘计算
+Language: C
+Stars: 758
+HTML Content: TDengine是一个高性能、分布式、支持SQL的时序数据库
+, Title: 随遇而安/kwswitch 743 esp8266 IOT 智能家居 物联网 Java 智能硬件
+Language: Java
+Stars: 743
+HTML Content: 智能开关平台，包含服务端、硬件端、安卓端和前端。关键词：智能家居、物联网开关、远程开关、红外线遥控开关、WIFI继电器、MQTT协议、ESP8266、Iot smart switch、Android、Spring boot、Vue、Arduino
+, Title: takeoff/iot-modbus 741 SpringBoot Netty logback IOT 物联网 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 741
+HTML Content: 物联网通讯协议，基于netty框架，支持COM（串口）和TCP协议，同时支持设备组多台设备高并发通讯。设计上采用工厂设计模式，代码采用继承和重写的方式实现高度封装，可作为SDK提供封装的接口，让具体的业务开发人员无需关心通讯协议的底层实现，直接调用接口即可使用。实现了心跳、背光灯、扫码、刷卡、指静脉、温湿度和门锁（支持多锁）等指令控制。代码注释丰富，包括上传下发指令调用例子，非常容易上手。
+, Title: daidai/IofTV-Screen 724 Vue 大屏 可视化 物联网 Echarts JavaScript 图表组件 IOT/物联网/边缘计算
+Language: JavaScript
+Stars: 724
+HTML Content: 🔥一个基于 vue、datav、Echart 框架的物联网可视化（大屏展示）模板，提供数据动态刷新渲染、屏幕适应、数据滚动配置，内部图表自由替换、Mixins注入等功能，持续更新....
+, Title: iteaj/iotucy 721 modbus mqtt plc DTU 串口 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 721
+HTML Content: iot-ucy是基于netty, spring boot等框架实现的物联网中间件, 已支持tcp、udp、mqtt、mqtt网关、websocket、modbus、dtu适配(AT协议)、dtu+modbus(tcp和rtu) 适配，plc (西门子, 欧姆龙),串口等常用物联网协议，并且支持快速接入redis、emqx、TDengine等数据库或消息队列
+, Title: 小熊派开源社区/BearPi-HM_Nano 716 智能硬件 硬件驱动(Drivers)
+Language: 
+Stars: 716
+HTML Content: 小熊派BearPi-HM Nano开发板基于HarmonyOS的源码
+, Title: s11e-DAO/bsin-paas-all-in-one 711 低代码
+Language: 
+Stars: 711
+HTML Content: Bsin-PaaS（毕昇） 是一套企业级的低代码、零代码去中心化应用搭建平台，可帮助企业快速搭建有竞争力的业务中台、流程中台、业务前台。
+, Title: 北京凯特伟业科技有限公司/jepaas-opensource 687 Java WEB应用开发 低代码
+Language: Java
+Stars: 687
+HTML Content: JEPaaS是北京凯特伟业科技有限公司开发的一款快速开发平台，立足于传统软件开发，针对现代企业应用面对的一系列问题，我们完善了低代码快速开发、集群部署以及SAAS快速开发；旨在降低行业的软件开发成本！
+, Title: 李子/My smart home 684 C 智能家居
+Language: C
+Stars: 684
+HTML Content: 智能家居的概念(smart home , home auto)很早以前就有了，现在随着硬件成本的下降，及google收购nest等，智能家居热度升高。 本智能家居的架构，包括服务器端，web网页，android 手机客户端，各种测试脚本，基本上基础架构都已经实现，并可实际调试。由于精力有限智能控制部分还在合作开发中。
+, Title: 朱天龙 (Armink)/FlashDB GVP 674 C IOT/物联网/边缘计算
+Language: C
+Stars: 674
+HTML Content: 一款支持 KV 数据和时序数据的超轻量级数据库
+, Title: 刘亚平/简搭云在线可视化表单设计，低码平台 674 JavaScript 低代码
+Language: JavaScript
+Stars: 674
+HTML Content: 🚀🚀🚀简搭云可视化表单设计器致力于无码开发，构建各种管理系统，向简道云方向前进，预览采用vue源码进行预览，同时支持在线编辑各种业务逻辑，可轻松定义各种控件事件。同时完美仿写了简道云的关联数据库控件，关联查询数据控件，逻辑配置等功能，可无码构建各种微系统。
+, Title: zhangweijrdhcc/windpower 658 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 658
+HTML Content: 此项目为模拟风电场监控项目，模拟一个电厂、十五台风机，数据采用随机数实时插入到时序数据库中，再由websocket+quartz从时序数据库中取出推送到界面展示。其中统计信息存放在关系型数据库中。采用***TrendDB时序数据库***进行模拟数据
+]

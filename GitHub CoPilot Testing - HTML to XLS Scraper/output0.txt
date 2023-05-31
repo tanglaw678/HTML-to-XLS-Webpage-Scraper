@@ -1,0 +1,61 @@
+[Title: dromara/go-view GVP 8.1K vue3 低代码 可视化 DeCode TypeScript 低代码
+Language: TypeScript
+Stars: 8.1K
+HTML Content: 🏆GoView 是一个Vue3搭建的低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS
+, Title: 张红元/iot-dc3 GVP 6K 物联网 DC3 IOT SpringBoot SpringCloud Java IOT/物联网/边缘计算
+Language: Java
+Stars: 6K
+HTML Content: IoT DC3 是一个基于 Spring Cloud 的开源的、分布式的物联网(IoT)平台，用于快速开发物联网项目和管理物联设备，是一整套物联系统解决方案。
+, Title: 随遇而安/FastBee 4.9K 物联网 emqx esp8266 IOT Java Java 智能家居
+Language: Java
+Stars: 4.9K
+HTML Content: FastBee开源物联网平台，简单易用，更适合中小企业和个人学习使用。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
+, Title: dgiot开源社区/dgiot GVP 4.5K IOT modbus 物联网平台 低代码 物联网 Erlang IOT/物联网/边缘计算
+Language: Erlang
+Stars: 4.5K
+HTML Content: 轻量级物联网开源平台，6分钟快速部署，千万级设备承载、电信级稳定性。物模型-规则引擎-数据通道-组态页面全流程低代码开发、前后端完全开源、支持多行业工业协议
+, Title: JetLinks物联网基础平台/jetlinks-community GVP 4.4K Java IOT/物联网/边缘计算
+Language: Java
+Stars: 4.4K
+HTML Content: JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议的设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。 demo: http://demo.jetlinks...
+, Title: idea4good/GuiLite GVP 4.1K C++ 桌面UI组件/框架 IOT/物联网/边缘计算
+Language: C++
+Stars: 4.1K
+HTML Content: ㊙4千行，仅头文件，全平台 GUI库；适用于：物联网、嵌入式、单片机、桌面应用。
+, Title: RT-Thread/rt-thread GVP 3.9K C 操作系统 IOT/物联网/边缘计算
+Language: C
+Stars: 3.9K
+HTML Content: RT-Thread是一个来自中国的开源物联网操作系统，它提供了非常强的可伸缩能力：从一个可以运行在ARM Cortex-M0芯片上的极小内核，到中等的ARM Cortex-M3/4/7系统，甚至是多核，64位的ARM Cortex-A，MIPS32/64处理器的功能丰富系统
+, Title: MqttsNet/thinglinks GVP 3.5K mqtt Netty IOT 物联网 SpringCloud Java IOT/物联网/边缘计算
+Language: Java
+Stars: 3.5K
+HTML Content: 开源ThingLinks物联网一体化平台，高性能、高吞吐量、高扩展性的物联网平台！单机可以支持百万链接，同时支持自定义扩展功能，功能非常强大，采用netty作为通信层组件，支持插件化开发集成！
+, Title: dgiot开源社区/iotStudio 3.5K dgiot IOT 物联网前端 组态 低代码 JavaScript IOT/物联网/边缘计算
+Language: JavaScript
+Stars: 3.5K
+HTML Content: iotStudio是国内首款轻量级开源工业物联网持续集成平台管理端, 全低代码框架,支持动态菜单、amis动态表单、knova大屏和threejs的3d大屏
+, Title: 百度开源/amis GVP 3.3K TypeScript 低代码
+Language: TypeScript
+Stars: 3.3K
+HTML Content: 低代码前端框架，它使用 JSON 配置来生成页面，可以节省页面开发工作量，极大提升开发前端页面的效率
+, Title: eda开发/基于QT开发的可视化FPGA-EDA软件 2.5K FPGA C++ 智能硬件
+Language: C++
+Stars: 2.5K
+HTML Content: 基于QT开发的可视化FPGA-EDA软件
+, Title: liangkangnan/tinyriscv 2.3K Verilog 智能硬件 RISC-V 开发
+Language: Verilog
+Stars: 2.3K
+HTML Content: 一个从零开始写的极简、非常易懂的RISC-V处理器核。
+, Title: dgiot开源社区/iotView 2.3K opc 工业 plc 低代码 dgiot JavaScript IOT/物联网/边缘计算
+Language: JavaScript
+Stars: 2.3K
+HTML Content: iotView是国内首款轻量级开源工业物联网持续集成平台管理端, 全低代码框架,支持动态菜单、amis动态表单和knova大屏
+, Title: dromara/mendmix GVP 2.3K Java 云原生
+Language: Java
+Stars: 2.3K
+HTML Content: Mendmix定位是一站式云原生架构技术底座。Mendmix提供了数据库、缓存、消息中间件、分布式定时任务、安全框架、网关以及主流产商云服务快速集成能力。基于Mendmix可以不用关注技术细节快速搭建高并发高可用基于微服务的分布式架构。
+, Title: Huawei LiteOS/LiteOS GVP 2.2K C IOT/物联网/边缘计算
+Language: C
+Stars: 2.2K
+HTML Content: Huawei LiteOS开源代码官方主仓库. LiteOS Studio 开发工具请访问https://gitee.com/LiteOS/LiteOS_Studio
+]

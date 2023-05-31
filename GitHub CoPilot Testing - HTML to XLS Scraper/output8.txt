@@ -1,0 +1,541 @@
+[Title: dromara/go-view GVP 8.1K vue3 低代码 可视化 DeCode TypeScript 低代码
+Language: TypeScript
+Stars: 8.1K
+HTML Content: 🏆GoView 是一个Vue3搭建的低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS
+, Title: 张红元/iot-dc3 GVP 6K 物联网 DC3 IOT SpringBoot SpringCloud Java IOT/物联网/边缘计算
+Language: Java
+Stars: 6K
+HTML Content: IoT DC3 是一个基于 Spring Cloud 的开源的、分布式的物联网(IoT)平台，用于快速开发物联网项目和管理物联设备，是一整套物联系统解决方案。
+, Title: 随遇而安/FastBee 4.9K 物联网 emqx esp8266 IOT Java Java 智能家居
+Language: Java
+Stars: 4.9K
+HTML Content: FastBee开源物联网平台，简单易用，更适合中小企业和个人学习使用。适用于智能家居、智慧办公、智慧社区、农业监测、水利监测、工业控制等。
+, Title: dgiot开源社区/dgiot GVP 4.5K IOT modbus 物联网平台 低代码 物联网 Erlang IOT/物联网/边缘计算
+Language: Erlang
+Stars: 4.5K
+HTML Content: 轻量级物联网开源平台，6分钟快速部署，千万级设备承载、电信级稳定性。物模型-规则引擎-数据通道-组态页面全流程低代码开发、前后端完全开源、支持多行业工业协议
+, Title: JetLinks物联网基础平台/jetlinks-community GVP 4.4K Java IOT/物联网/边缘计算
+Language: Java
+Stars: 4.4K
+HTML Content: JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议的设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。 demo: http://demo.jetlinks...
+, Title: idea4good/GuiLite GVP 4.1K C++ 桌面UI组件/框架 IOT/物联网/边缘计算
+Language: C++
+Stars: 4.1K
+HTML Content: ㊙4千行，仅头文件，全平台 GUI库；适用于：物联网、嵌入式、单片机、桌面应用。
+, Title: RT-Thread/rt-thread GVP 3.9K C 操作系统 IOT/物联网/边缘计算
+Language: C
+Stars: 3.9K
+HTML Content: RT-Thread是一个来自中国的开源物联网操作系统，它提供了非常强的可伸缩能力：从一个可以运行在ARM Cortex-M0芯片上的极小内核，到中等的ARM Cortex-M3/4/7系统，甚至是多核，64位的ARM Cortex-A，MIPS32/64处理器的功能丰富系统
+, Title: MqttsNet/thinglinks GVP 3.5K mqtt Netty IOT 物联网 SpringCloud Java IOT/物联网/边缘计算
+Language: Java
+Stars: 3.5K
+HTML Content: 开源ThingLinks物联网一体化平台，高性能、高吞吐量、高扩展性的物联网平台！单机可以支持百万链接，同时支持自定义扩展功能，功能非常强大，采用netty作为通信层组件，支持插件化开发集成！
+, Title: dgiot开源社区/iotStudio 3.5K dgiot IOT 物联网前端 组态 低代码 JavaScript IOT/物联网/边缘计算
+Language: JavaScript
+Stars: 3.5K
+HTML Content: iotStudio是国内首款轻量级开源工业物联网持续集成平台管理端, 全低代码框架,支持动态菜单、amis动态表单、knova大屏和threejs的3d大屏
+, Title: 百度开源/amis GVP 3.3K TypeScript 低代码
+Language: TypeScript
+Stars: 3.3K
+HTML Content: 低代码前端框架，它使用 JSON 配置来生成页面，可以节省页面开发工作量，极大提升开发前端页面的效率
+, Title: eda开发/基于QT开发的可视化FPGA-EDA软件 2.5K FPGA C++ 智能硬件
+Language: C++
+Stars: 2.5K
+HTML Content: 基于QT开发的可视化FPGA-EDA软件
+, Title: liangkangnan/tinyriscv 2.3K Verilog 智能硬件 RISC-V 开发
+Language: Verilog
+Stars: 2.3K
+HTML Content: 一个从零开始写的极简、非常易懂的RISC-V处理器核。
+, Title: dgiot开源社区/iotView 2.3K opc 工业 plc 低代码 dgiot JavaScript IOT/物联网/边缘计算
+Language: JavaScript
+Stars: 2.3K
+HTML Content: iotView是国内首款轻量级开源工业物联网持续集成平台管理端, 全低代码框架,支持动态菜单、amis动态表单和knova大屏
+, Title: dromara/mendmix GVP 2.3K Java 云原生
+Language: Java
+Stars: 2.3K
+HTML Content: Mendmix定位是一站式云原生架构技术底座。Mendmix提供了数据库、缓存、消息中间件、分布式定时任务、安全框架、网关以及主流产商云服务快速集成能力。基于Mendmix可以不用关注技术细节快速搭建高并发高可用基于微服务的分布式架构。
+, Title: Huawei LiteOS/LiteOS GVP 2.2K C IOT/物联网/边缘计算
+Language: C
+Stars: 2.2K
+HTML Content: Huawei LiteOS开源代码官方主仓库. LiteOS Studio 开发工具请访问https://gitee.com/LiteOS/LiteOS_Studio
+, Title: vdpAdmin/Vue低代码可视化表单 2.2K 可视化表单 低代码表单 工作流表单 表单设计器 动态表单 JavaScript Vue扩展组件 低代码
+Language: JavaScript
+Stars: 2.2K
+HTML Content: 一款高效的Vue低代码表单、工作流表单，包含表单设计器和表单渲染器，可视化设计，一键生成源码，享受更多摸鱼时间。
+, Title: IoTSharp/IoTSharp GVP 2K IOT IoTGateway mqtt Coap 物联网 C# IOT/物联网/边缘计算
+Language: C#
+Stars: 2K
+HTML Content: IoTSharp 是一个 基于.Net Core 开源的物联网基础平台， 支持 HTTP、MQTT 、CoAp 协议， 属性数据和遥测数据协议简单类型丰富，是一个用于数据收集、处理、可视化与设备管理的 IoT 平台 QQ群:63631741
+, Title: 帝博软件/diboot GVP 2K 低代码 代码生成器 Vue flowable 工作流 Java 后台管理框架 低代码
+Language: Java
+Stars: 2K
+HTML Content: 写的更少, 性能更好 -> 为开发人员打造的低代码开发平台。Mybatis-plus关联查询，关联无SQL，性能高10倍，前后端代码本地可视化生成，flowable工作流，spring cloud微服务等全方位赋能！
+, Title: 张红元/dc3-web 1.9K NodeJS IOT/物联网/边缘计算
+Language: NodeJS
+Stars: 1.9K
+HTML Content: DC3是一个基于Spring Cloud的开源的、分布式的物联网(IOT)平台,用于快速开发物联网项目和管理物联设备,是一整套物联系统解决方案。
+, Title: 於之/IOTGate GVP 1.8K Java IOT/物联网/边缘计算
+Language: Java
+Stars: 1.8K
+HTML Content: JAVA版基于netty的物联网高并发智能网关
+, Title: 开源字节/开源字节快速开发平台 1.7K SpringBoot MyBatis Vue uni-app 快速开发 Java 低代码
+Language: Java
+Stars: 1.7K
+HTML Content: 🔥 一直想做一款追求极致用户体验的快速开发平台，看了很多优秀的开源项目但是发现没有合适的。于是利用空闲休息时间对若依框架进行扩展写了一套快速开发系统。如此有了开源字节快速开发平台。该平台基于 Spring Boot + MyBatis + Vue & Element ，包含微信小程序 & Uniapp， Web 报表、可视化大屏、三方登录、支付、短信、邮箱、OSS...
+, Title: ApolloAuto/apollo GVP 1.7K C++ 自动驾驶/无人机
+Language: C++
+Stars: 1.7K
+HTML Content: Apollo (阿波罗)是一个开放的、完整的、安全的平台，将帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+, Title: dgiot开源社区/dgiot_dtu 1.5K DTU modbus opc dgiot C# IOT/物联网/边缘计算
+Language: C#
+Stars: 1.5K
+HTML Content: dgiot DTU是dgiot 另一款Windows桌面级产品，可以桥接企业内网的串口、OPC/PLC、BacNet、软件界面、MDB、Sql Sever、视频等传统数据源到DG-IoT
+, Title: NocoBase/NocoBase GVP 1.4K low-code Nodejs no-code 无代码 低代码 TypeScript 低代码
+Language: TypeScript
+Stars: 1.4K
+HTML Content: NocoBase 是一个极易扩展的开源无代码和低代码开发平台。
+, Title: 合宙Luat/LuatOS GVP 1.3K Lua RTOS 物联网 Lua IOT/物联网/边缘计算 操作系统
+Language: Lua
+Stars: 1.3K
+HTML Content: Powerful embedded Lua Engine for IoT devices, with many components and low memory requirements (16K RAM, 128K Flash)
+, Title: 好雨科技/Rainbond GVP 1.3K Go 云原生
+Language: Go
+Stars: 1.3K
+HTML Content: 云原生且易用的应用管理平台 | Cloud-native and easy-to-use application management platform
+, Title: 如梦技术/mica-mqtt 1.3K mqtt mica mqtt-client mqtt-broker Java Java 消息服务器/消息队列 IOT/物联网/边缘计算
+Language: Java
+Stars: 1.3K
+HTML Content: 基于 java aio 实现，简单易用、低延迟、高性能百万级 mqtt client 组件和 mqtt broker 服务。🔝🔝 记得右上角点个star 关注更新！
+, Title: OPENFANS/Debian-Pi-Aarch64 1.2K 其他 智能硬件 操作系统
+Language: 其他
+Stars: 1.2K
+HTML Content: 这是全球发行的第一个同时支持树莓派全系64位硬件的64位系统 !!!（包括：2Bv1.2,3B,3B+,3A+,4B,CM4）。 如果中文档无法访问(英文的可以)，请到github仓库或gitlab仓库 ”：https://gitlab.com/openfans/Debian-Pi-Aarch64 ”查看！ 庆祝2021-8-8里程碑1KStart达成,感谢大家的支持!
+, Title: JEECG/jeecgboot-vue3 1.1K Ant-Design Vue vue3 vben jeecg JavaScript 低代码
+Language: JavaScript
+Stars: 1.1K
+HTML Content: 🔥JeecgBoot—Vue3版前端源码，采用Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
+, Title: 农码一生/IoTClient 1.1K C# IOT/物联网/边缘计算
+Language: C#
+Stars: 1.1K
+HTML Content: IoTClient 是一个物联网设备通讯协议实现客户端，将包括主流PLC通信读取、ModBus协议、Bacnet协议等常用工业通讯协议。本组件终身开源免费，采用最宽松MIT协议，您也可以随意修改和商业使用（商业使用请做好评估和测试）。
+, Title: Sam/iotgateway GVP 1K 工业物联网 数据采集网关 plc Scada 网关 C# IOT/物联网/边缘计算
+Language: C#
+Stars: 1K
+HTML Content: 基于.NET6的跨平台物联网网关。通过可视化配置，轻松的连接到你的任何设备和系统(如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等)，从而与 Thingsboard、IoTSharp或您自己的物联网平台(MES、SCADA)进行双向数据通讯。提供简单的驱动开发接口；当然也可以进行边缘计算。
+, Title: morixinguan/MCU产品级项目收集 1K C 智能硬件
+Language: C
+Stars: 1K
+HTML Content: 该仓库主要上传平时从Github/码云收集的一些大佬们上传的产品级项目，可能是基于STM32的，也可能是基于其它芯片方案的等等，如有违规，请联系我删除
+, Title: bean/BabyOS GVP 974 C 智能硬件
+Language: C
+Stars: 974
+HTML Content: 专为MCU项目开发提速的代码框架
+, Title: 稀饭放姜/iRTU 949 DTU 物联网 4G 透传 云平台 Lua 智能硬件
+Language: Lua
+Stars: 949
+HTML Content: 无需编程，简单配置就能将数据对接到云端的iRTU/DTU！轻松实现物联网！
+, Title: java110/HC物联网平台 932 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 932
+HTML Content: HC物联网平台是一款小区硬件管理的物联网管理平台，主要对接各大厂商门禁设备，道闸设备，监控设备，智能锁和充电桩等，支持http mqtt comnet 协议 方便和各大小区云平台对接 目前我们对接门禁有月轮门禁，伊兰度和锐目物联，目前门禁+道闸已经商用加群777620972
+, Title: quickmsg/mqtt-cluster 925 mqtt Netty reactor 物联网 高并发 Java 消息服务器/消息队列 IOT/物联网/边缘计算
+Language: Java
+Stars: 925
+HTML Content: 一款高性、高吞吐量、高扩展性的物联网mqtt集群broker！支持千万级+链接，同时支持自定义扩展功能，功能非常强大！
+, Title: dgiot开源社区/dgiot-mqtt2eventbus 915 mqtt EventBus dgiot 微服务 Vue IOT/物联网/边缘计算
+Language: 
+Stars: 915
+HTML Content: 物联网协议微服务，实现vue前端页面的mqtt转vue的消息微服务，让vue各个组件之间通过消息通讯，而不是通过函数调用交互，从而实现代码解耦，类似移动端app的消息通讯架构：消息服务（mqtt）--》 eventbus--》view
+, Title: dgiot开源社区/dgiot_topo 877 影子设备 数字孪生 桥接 物模型 物联网平台 IOT/物联网/边缘计算
+Language: 
+Stars: 877
+HTML Content: dgiot_topo通道是影子设备与前端组态页面之间的桥接通道，实时订阅dgiot_task通道中解析成物模型的消息，将物模型消息格式转换成knova组态json格式推送到前端组态页面，实现大屏上设备数据的实时更新
+, Title: MindSpore/mindquantum GVP 861 Python 量子计算
+Language: Python
+Stars: 861
+HTML Content: MindQuantum is a general software library supporting the development of applications for quantum computation.
+, Title: iBytePro/TCP Gateway 836 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 836
+HTML Content: 通过在云端进行智能边缘核心设备的建立、身份制定、策略规则制定、函数编写，然后生成配置文件下发；物联网设备网关技术架构设计（Session 管理、心跳管理、数据上行、数据下行）
+, Title: 云网软件/OA协同办公系统，流程专家（自带低代码开发平台） 834 OA系统 低代码 工作流 OA办公 协同办公 Java 企业应用系统 低代码
+Language: Java
+Stars: 834
+HTML Content: ⭐⭐⭐⭐⭐基于企业级工作流引擎，深入研发15年，服务过1000多家客户，基于Springboot+Vue3框架。拥有成熟的OA办公功能，自带低代码开发平台，可以快速搭建工作流、人事管理、CRM、办公用品、项目管理等功能，让您可以快速上手、快速实施、快速交付！
+, Title: vdpAdmin/Vue3低代码可视化表单 802 可视化表单 低代码表单 工作流表单 Element表单 表单设计器 JavaScript 低代码
+Language: JavaScript
+Stars: 802
+HTML Content: 一款高效的Vue 3低代码表单、工作流表单，包含表单设计器和表单渲染器，可视化设计，一键生成源码，享受更多摸鱼时间。
+, Title: 山东云则/IoTLink GVP 801 IoTLink RuoYi-Vue SpringBoot RabbitMQ 物联网卡 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 801
+HTML Content: 基于 SpringBoot、Vue、Mybatis、RabbitMq、Mysql、Redis 等开发的轻量级的物联网综合业务支撑平台。支持物联网卡、物联网模组、卡+模组融合管理。提供状态、资费、客户、进销存、合同、订单、续费、充值、诊断、账单等功能。平台可同时接入中国移动、中国电信、中国联通、第三方物联网卡进行统一管理。逐步完善平台，助您快速接入物联网，让万物互联更简单。
+, Title: 肖昆/XTDrone GVP 794 无人机 仿真 集群 无人系统 机器人 Python 自动驾驶/无人机
+Language: Python
+Stars: 794
+HTML Content: 基于PX4、ROS和Gazebo的无人机通用仿真平台
+, Title: 嘉立创SMT/JLCSMT_LIB 786 其他 智能硬件
+Language: 其他
+Stars: 786
+HTML Content: 可贴片元器件列表_基础库
+, Title: APITable/APITable GVP 779 React JavaScript TypeScript Spring Nestjs TypeScript 低代码
+Language: TypeScript
+Stars: 779
+HTML Content: vika.cn维格表社区版，地表至强的开源低代码、多维表格工具，Airtable的开源免费替代，智能表格与数据库的结合。
+, Title: peng-zhihui/Dummy-Robot 774 机器人
+Language: 
+Stars: 774
+HTML Content: 我的超迷你机械臂机器人项目
+, Title: 腾讯开源/TencentOS-tiny GVP 765 C IOT/物联网/边缘计算
+Language: C
+Stars: 765
+HTML Content: TencentOS tiny 是腾讯面向物联网领域开发的实时操作系统，具有低功耗，低资源占用，模块化，安全可靠等特点，可有效提升物联网终端产品开发效率
+, Title: TDengine/TDengine GVP 758 C IOT/物联网/边缘计算
+Language: C
+Stars: 758
+HTML Content: TDengine是一个高性能、分布式、支持SQL的时序数据库
+, Title: 随遇而安/kwswitch 743 esp8266 IOT 智能家居 物联网 Java 智能硬件
+Language: Java
+Stars: 743
+HTML Content: 智能开关平台，包含服务端、硬件端、安卓端和前端。关键词：智能家居、物联网开关、远程开关、红外线遥控开关、WIFI继电器、MQTT协议、ESP8266、Iot smart switch、Android、Spring boot、Vue、Arduino
+, Title: takeoff/iot-modbus 741 SpringBoot Netty logback IOT 物联网 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 741
+HTML Content: 物联网通讯协议，基于netty框架，支持COM（串口）和TCP协议，同时支持设备组多台设备高并发通讯。设计上采用工厂设计模式，代码采用继承和重写的方式实现高度封装，可作为SDK提供封装的接口，让具体的业务开发人员无需关心通讯协议的底层实现，直接调用接口即可使用。实现了心跳、背光灯、扫码、刷卡、指静脉、温湿度和门锁（支持多锁）等指令控制。代码注释丰富，包括上传下发指令调用例子，非常容易上手。
+, Title: daidai/IofTV-Screen 724 Vue 大屏 可视化 物联网 Echarts JavaScript 图表组件 IOT/物联网/边缘计算
+Language: JavaScript
+Stars: 724
+HTML Content: 🔥一个基于 vue、datav、Echart 框架的物联网可视化（大屏展示）模板，提供数据动态刷新渲染、屏幕适应、数据滚动配置，内部图表自由替换、Mixins注入等功能，持续更新....
+, Title: iteaj/iotucy 721 modbus mqtt plc DTU 串口 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 721
+HTML Content: iot-ucy是基于netty, spring boot等框架实现的物联网中间件, 已支持tcp、udp、mqtt、mqtt网关、websocket、modbus、dtu适配(AT协议)、dtu+modbus(tcp和rtu) 适配，plc (西门子, 欧姆龙),串口等常用物联网协议，并且支持快速接入redis、emqx、TDengine等数据库或消息队列
+, Title: 小熊派开源社区/BearPi-HM_Nano 716 智能硬件 硬件驱动(Drivers)
+Language: 
+Stars: 716
+HTML Content: 小熊派BearPi-HM Nano开发板基于HarmonyOS的源码
+, Title: s11e-DAO/bsin-paas-all-in-one 711 低代码
+Language: 
+Stars: 711
+HTML Content: Bsin-PaaS（毕昇） 是一套企业级的低代码、零代码去中心化应用搭建平台，可帮助企业快速搭建有竞争力的业务中台、流程中台、业务前台。
+, Title: 北京凯特伟业科技有限公司/jepaas-opensource 687 Java WEB应用开发 低代码
+Language: Java
+Stars: 687
+HTML Content: JEPaaS是北京凯特伟业科技有限公司开发的一款快速开发平台，立足于传统软件开发，针对现代企业应用面对的一系列问题，我们完善了低代码快速开发、集群部署以及SAAS快速开发；旨在降低行业的软件开发成本！
+, Title: 李子/My smart home 684 C 智能家居
+Language: C
+Stars: 684
+HTML Content: 智能家居的概念(smart home , home auto)很早以前就有了，现在随着硬件成本的下降，及google收购nest等，智能家居热度升高。 本智能家居的架构，包括服务器端，web网页，android 手机客户端，各种测试脚本，基本上基础架构都已经实现，并可实际调试。由于精力有限智能控制部分还在合作开发中。
+, Title: 朱天龙 (Armink)/FlashDB GVP 674 C IOT/物联网/边缘计算
+Language: C
+Stars: 674
+HTML Content: 一款支持 KV 数据和时序数据的超轻量级数据库
+, Title: 刘亚平/简搭云在线可视化表单设计，低码平台 674 JavaScript 低代码
+Language: JavaScript
+Stars: 674
+HTML Content: 🚀🚀🚀简搭云可视化表单设计器致力于无码开发，构建各种管理系统，向简道云方向前进，预览采用vue源码进行预览，同时支持在线编辑各种业务逻辑，可轻松定义各种控件事件。同时完美仿写了简道云的关联数据库控件，关联查询数据控件，逻辑配置等功能，可无码构建各种微系统。
+, Title: zhangweijrdhcc/windpower 658 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 658
+HTML Content: 此项目为模拟风电场监控项目，模拟一个电厂、十五台风机，数据采用随机数实时插入到时序数据库中，再由websocket+quartz从时序数据库中取出推送到界面展示。其中统计信息存放在关系型数据库中。采用***TrendDB时序数据库***进行模拟数据
+, Title: peng-zhihui/ElectronBot 650 机器人
+Language: 
+Stars: 650
+HTML Content: 本项目是一个桌面级小机器工具人，外观设计的灵感来源是WALL-E里面的EVE~机器人具备USB通信显示画面功能，具备6个自由度（手部roll、pitch，颈部，腰部各一个），使用自己修改的特制舵机支持关节角度回传
+, Title: DinoHaw/mOTA 615 OTA mcu stm32 C 智能硬件
+Language: C
+Stars: 615
+HTML Content: 一款专为32位MCU开发的OTA组件
+, Title: 甘草酸不酸/天气墨水屏 603 C 智能硬件
+Language: C
+Stars: 603
+HTML Content: ESP8266多功能墨水屏，arduino开发，天气 时钟 阅读 配网
+, Title: ByteCub/bytecub 583 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 583
+HTML Content: 基于java8，SpringBoot2.3.6 ElasticSearch 7.6.2,redis，MySQL 5.6/5.7的物联网通讯平台。使用习惯和市面上的物联网云平台一致。
+, Title: OpenHarmony/kernel_liteos_m 582 C IOT/物联网/边缘计算 操作系统
+Language: C
+Stars: 582
+HTML Content: LiteOS kernel for devices with few resources, such as the MCU | 适用于MCU等各种资源极小设备的LiteOS内核
+, Title: Generalized_Aviation/GAAS GVP 571 C++ 智能硬件 AI-人工智能
+Language: C++
+Stars: 571
+HTML Content: 面向 L5 自主飞行的 eVTOL 与无人机，提供稳健强大基于激光雷达的全自主飞行开源平台。
+, Title: SeekFree/逐飞科技TC264开源库 566 C 智能硬件
+Language: C
+Stars: 566
+HTML Content: 逐飞科技针对参加各类竞赛以及使用TC264进行产品开发，制作的英飞凌TC264MCU开源库。
+, Title: 深圳行云创新科技有限公司/pageplug 562 lowcode mini-program-lowcode Kubernetes cloudnative 云原生 低代码
+Language: 
+Stars: 562
+HTML Content: PagePlug 是 Appsmith 的中国化项目。基于Appsmith做了整体性能的优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架
+, Title: 北京高速波软件有限公司/心通达低代码开发平台（心通达OA协同办公） 546 Java 低代码
+Language: Java
+Stars: 546
+HTML Content: 心通达OA平台内置强大的企业级工作流引擎，研发积累21年，服务10多万家企业及政务客户。心通达O平台采用JAVA SSM(Spring+SpringMVC+MyBatis)框架，技术包括流程引擎(Workflow)、表单引擎、即时通信(im)、签章、手写、大屏展示、office无插件预览等。功能包括邮件、工作流、公文管理、考勤管理、文件柜、网盘等功能。集成了阿里钉钉、企业微信、华为welink等。
+, Title: CVTeam_CN/RoboCar GVP 534 C++ 车载应用 机器人
+Language: C++
+Stars: 534
+HTML Content: 机器人自动寻线、避障、建图、导航、遥控版本/车载电脑版本路面分析，及交通路况识别的车辆辅助驾驶系统
+, Title: 猿计划/vite-vue3-lowcode 531 lowcode TypeScript Vue vue3 TypeScript 低代码
+Language: TypeScript
+Stars: 531
+HTML Content: vue3.x vite2.x vant element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
+, Title: DTCloud开源社区/DTCloud 529 DTCloud IOT BIM CIM ERP Python IOT/物联网/边缘计算
+Language: Python
+Stars: 529
+HTML Content: DTCloud中台包括（文档管理，BIM管理，IOT管理）， 微信服务号， 钉钉应用集成，微信小程序商城， 中国城市数据，无码开发平台，报表设计器，权限设计器， DTCloud Python API， CMS新闻发布系统，可视化大屏设计器， 工作流， IoT网关，调度器，智能工厂，FF Model
+, Title: m-RNA/MSP432P4开源库 速成 Keil CCS 电赛代码储备 519 MSP432 电赛 MSP432P401R keil CCS C 智能硬件
+Language: C
+Stars: 519
+HTML Content: Bilibili：MSP432P401R入门速成教程，配套历程。 GPIO、OLED图形库(I2C)、ADC多路、时钟、滴答延时、外部中断、中断调度、串口printf、定时器A、定时器32、定时器无限扩展Multi_Timer
+, Title: dgiot开源社区/dgiot_modbus_tcp 515 IOT/物联网/边缘计算
+Language: 
+Stars: 515
+HTML Content: 支持modbus设备通过tcp直接接入，设备自动注册/上线/协议解析/ 与dgiot_task通道无缝对接，实现自动采集，自动存库，自动同步前端组态大屏等功能
+, Title: 乐鑫开源/esp-idf 509 C 芯片开发
+Language: C
+Stars: 509
+HTML Content: ESP-IDF 是由乐鑫官方推出的针对 ESP32 和 ESP32-S2 系列芯片的开发框架。ESP-IDF 国内镜像仓库，Issues 和 PRs 请仍旧提交到 github。 重要：Gitee 中 ESP-IDF 仓库的使用，请先参看 https://gitee.com/EspressifSystems/esp-gitee-tools 中的说明文档。ESP-IDF 及其子模块，每日会自动同步若干次。
+, Title: 魔罗/CodeBrick 478 C 智能硬件
+Language: C
+Stars: 478
+HTML Content: 一种无OS的MCU实用软件管理系统，包括任务轮询框架，命令管理器、低功耗管理、环形缓冲区等实用模块。
+, Title: uctoo/uctoo 466 PHP 低代码
+Language: PHP
+Stars: 466
+HTML Content: UCToo是一套云原生分布式SaaS应用开发基础设施。符合SaaS成熟度模型Level5级标准，实现SaaS统一应用实例模板开发规范，采用开源、通用、厂商中立的技术选型。内置众多开发者效率工具，可快速进行SaaS应用的开发和运营，适合作为SaaS平台、产业互联网等产品的起始项目。开发成果可共享，可互联互通，可在UCToo应用市场商业化分发。
+, Title: hihopeorg/HarmonyOS-IoT-Application-Development 451 C IOT/物联网/边缘计算 图书/手册/教程
+Language: C
+Stars: 451
+HTML Content: 《Harmony OS物联网应用开发实战》课程资料（包含代码，基于HiSpark WiFi IoT套件）
+, Title: GouGe/eventos 447 单片机 嵌入式 RTOS 事件 C IOT/物联网/边缘计算
+Language: C
+Stars: 447
+HTML Content: 基于事件总线的嵌入式操作系统。QQ群：667432915。
+, Title: idea4good/GuiLiteSamples 445 C++ 智能硬件 IOT/物联网/边缘计算
+Language: C++
+Stars: 445
+HTML Content: ㊙大道至简 -- 全平台 GUI 特效库（亦支持：单片机、IoT设备）
+, Title: shijun/TTIot 441 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 441
+HTML Content: TTIoT云端物联网Iot组件;面向JAVA;netty;mqtt;异步推送;以事件为驱动;为设备提供安全可靠的连接通信能力;
+, Title: 奇特物联开源/iotkit-parent 436 IOT 物联网 规则引擎 mqtt 物模型 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 436
+HTML Content: iotkit物联网平台，包含了品类、物模型、消息转换、通讯组件(mqtt/EMQX通讯组件、小度音箱接入组件)、modbus透传接入、modbus虚拟网关、云端低代码设备开发，设备管理、设备分组、虚拟设备、规则引擎、第三方平台接入、数据流转、数据可视化、报警中心等模块。 QQ群：940575749
+, Title: 朱天龙 (Armink)/CmBacktrace 427 C 智能硬件
+Language: C
+Stars: 427
+HTML Content: ARM Cortex-M 系列 MCU 错误追踪库
+, Title: 老坏猫/SharpSCADA 422 C# 智能硬件
+Language: C#
+Stars: 422
+HTML Content: C# 工控网关+轻量级组态软件
+, Title: snowwolf/iot-plat 414 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 414
+HTML Content: point io是适合于不同应用场景的物联网数据采集与交互的通信框架。它是基于高性能和高可用性的Mina框架构建而来，支持批量数据传输；支持TCP、UDP协议；控制反转的设计模式（支持spring）；采用优雅的松耦合架构。单台服务器支持8000+并发。
+, Title: SpunkyWX/rt-fota 406 C IOT/物联网/边缘计算
+Language: C
+Stars: 406
+HTML Content: 基于RT-Thread nano的Bootloader框架
+, Title: 格维融创开源社区GTC/AntOS 402 C 操作系统 IOT/物联网/边缘计算
+Language: C
+Stars: 402
+HTML Content: 超轻量级实时操作系统，适合在8051为内核的MCU上运行，专门为小型家电及简易物联网终端设计。
+, Title: shiyin1211/openGW 374 Go IOT/物联网/边缘计算
+Language: Go
+Stars: 374
+HTML Content: 开源物联网边缘网关框架
+, Title: wwy/UAVS GVP 371 UAV Drone 路径规划 仿真系统 自动驾驶/无人机
+Language: 
+Stars: 371
+HTML Content: 智能无人机路径规划仿真系统是一个具有操作控制精细、平台整合性强、全方向模型建立与应用自动化特点的软件。它以A、B两国在C区开展无人机战争为背景，该系统的核心功能是通过仿真平台规划无人机航线，并进行验证输出，数据可导入真实无人机，使其按照规定路线精准抵达战场任一位置，支持多人多设备编队联合行动。
+, Title: alios-things/AliOS-Things 371 C IOT/物联网/边缘计算
+Language: C
+Stars: 371
+HTML Content: AliOS Things物联网操作系统，采用弹性内核，支持Python和JavaScript轻应用，主打“易上手”。
+, Title: Shaker/DeviationRx 363 Arduino 智能硬件
+Language: Arduino
+Stars: 363
+HTML Content: 基于CYRF6936的开源接收机项目
+, Title: 太极创客团队/哔哩哔哩天气时钟单色屏版 363 C++ 智能硬件
+Language: C++
+Stars: 363
+HTML Content: 这款萌萌的物联网时钟可显示天气信息以及哔哩哔哩网站粉丝数(๑•̀ㅂ•́)و✧
+, Title: 贼大的桔子/uni-lowcode 363 uni-app WXApp H5 APP Vue JavaScript 低代码
+Language: JavaScript
+Stars: 363
+HTML Content: 🍊uni-lowcode低代码开发平台是一款基于uni-app框架和uview组件库开发的app可视化拖拽编辑器，适用于企业、个人等基于uni-app技术栈开发的项目。适合各种小程序平台的开发人员、产品经理、UI等等。采用MIT开源协议，集成了很多常见的业务代码，帮助开发人员快速板砖，快速实现产品。真正意义上做到了开箱即用！
+, Title: Nrush/nr_micro_shell 357 C 智能硬件
+Language: C
+Stars: 357
+HTML Content: shell for MCU. 单片机命令行交互。
+, Title: xenkuo/comNG 354 JavaScript 智能硬件
+Language: JavaScript
+Stars: 354
+HTML Content: 一个现代且功能强大的串口助手软件
+, Title: 晨旭/llcom 352 C# 开发/调试 智能硬件
+Language: C#
+Stars: 352
+HTML Content: 功能强大的串口工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能
+, Title: 徐小夕/dooringx 351 H5 lowcode editor H5-Editor page-editor JavaScript 低代码
+Language: JavaScript
+Stars: 351
+HTML Content: 开箱即用的H5可视化搭建框架，轻松搭建自己的可视化搭建平台
+, Title: 魔罗/AT Command 348 C 智能硬件
+Language: C
+Stars: 348
+HTML Content: 一款管理AT命令通信交互组件， 适用于Modem、WIFI模块、蓝牙等使用AT命令或者ASCII命令行通信的场景。
+, Title: haok2/yiwa 346 Python AI-人工智能 机器人
+Language: Python
+Stars: 346
+HTML Content: 伊瓦，家庭语音控制"假机器人"，语音转页面指令动作，利用树莓派+电视机，实现家庭的内容展示和无键鼠控制；技术基础，易于开发，基础代码已给出不同技术示例，让各个技术阶段的都能开发自己的功能；也可作为幼教机构教材，儿童Python编程课程项目。
+, Title: ThingsPanel/thingspanel-go 343 Go IOT/物联网/边缘计算
+Language: Go
+Stars: 343
+HTML Content: 开源插件化物联网平台，Go语言开发。支持MQTT、Modbus多协议、多类型设备接入与可视化、自动化、告警、规则引擎等功能。 QQ群：371794256。
+, Title: peng-zhihui/HoloCubic 340 C 智能硬件
+Language: C
+Stars: 340
+HTML Content: 带网络功能的伪全息透明显示桌面站
+, Title: ECBM工作室/modbus 322 C 智能硬件
+Language: C
+Stars: 322
+HTML Content: 全新的、可裁剪的modbus。一定是你没见过的版本。易移植易上手，大量注释爱不释手。
+, Title: xboot/xboot 316 C 智能硬件
+Language: C
+Stars: 316
+HTML Content: XBOOT 是一款功能强大、可移植性强、代码复用率高的嵌入式系统bootloader，还是一款SOC片上系统应用软件执行引擎，无需复杂的操作系统，APP上电直接执行。
+, Title: dgiot开源社区/iotApp 316 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 316
+HTML Content: iotApp是dgiot在移动端的低代码app版本
+, Title: smartboot/smart-mqtt 314 mqtt broker mqtt-broker IOT Java IOT/物联网/边缘计算
+Language: Java
+Stars: 314
+HTML Content: 一款开源的云原生分布式 MQTT Broker 服务器，支持海量物联网设备互联互通。
+, Title: gzbkey/LingLongGUI 313 C 桌面UI组件/框架 IOT/物联网/边缘计算
+Language: C
+Stars: 313
+HTML Content: 玲珑GUI是高效的界面开发解决方案。 代替串口屏、组态，降低产品成本，产品软硬件自主可控。 配套界面开发软件，图形化编辑界面，生成C代码。
+, Title: yshe/低代码数据中台 308 Java 低代码
+Language: Java
+Stars: 308
+HTML Content: 【企业级】【数据中台】南瓜树低代码平台，内置【人事信息管理】【统一用户管理】【工作流集成】【低代码云数据源开发】【快速交付API】【BI报表】功能 。助力中小微企业实现数字化转型，提高开发人员工作效率
+, Title: Huawei LiteOS/LiteOS_Components 306 IOT/物联网/边缘计算
+Language: 
+Stars: 306
+HTML Content: Huawei LiteOS组件仓库，主要存放组件的补丁及相关的sha256校验文件。
+, Title: cdy816/mars 305 实时库 时序库 物联网 工业大数据 C# IOT/物联网/边缘计算
+Language: C#
+Stars: 305
+HTML Content: Mars 数据库是一个集数据采集、存储、分析为一体的实时数据库
+, Title: 灰大柱/6轴桌面机械臂 305 C 智能硬件
+Language: C
+Stars: 305
+HTML Content: 使用42和57闭环步进电机制作的6轴机械臂，用同步带代替减速器的低成本解决方法，臂长450mm和750mm，最大负载2.5kg，精度0.5mm，制作成本5000元以内。可以触控屏示教，自写逆向运动算法，已支持关节运动指令和直线运动指令
+, Title: Diego2098/ThingsGateway 304 边缘网关 数据采集 modbus mqtt 物联网 C# IOT/物联网/边缘计算
+Language: C#
+Stars: 304
+HTML Content: ThingsGateway 基于net6/7+ ，跨平台边缘采集(物联网)网关，支持南北端插件式开发，支持常用Modbus/OPCDA/OPCUA/S7采集插件，MQTT/OPCUAServer等上传插件
+, Title: YoMo/yomo GVP 297 Geo-distributed-System Metaverse Go IOT/物联网/边缘计算
+Language: Go
+Stars: 297
+HTML Content: YoMo是开源的Streaming Serverless Framework，支持Geo-distributed System的编写，作为 Metaverse Infrastructure 被多个产品使用，以构建全球分布式系统，满足用户的低时延接入和实时计算
+, Title: wangpeng25/哔哩哔哩小电视 292 C 智能硬件
+Language: C
+Stars: 292
+HTML Content: 哔哩哔哩小电视 采用esp32作为主控，lvgl8.0界面设计，基于idf4.3开发 支持smartconfig或微信airkiss配网，网络连接显示 网络获取时间 天气显示 温湿度采集 粉丝数显示 mqtt温湿度上传
+, Title: scriptiot/evm 289 C IOT/物联网/边缘计算
+Language: C
+Stars: 289
+HTML Content: EVM 全称 Embedded Virtual Machine，是一款通用的脚本引擎兼容框架。
+, Title: morixinguan/STM32开发方案 287 C 智能硬件
+Language: C
+Stars: 287
+HTML Content: 一些日常工作做项目中用到的一些例程和方案，以便于快速做出我想要的产品功能。
+, Title: qlexcel/ThermalCam 287 C 智能硬件
+Language: C
+Stars: 287
+HTML Content: 基于MLX90640传感器制作的红外热成像仪。成本两百多，易于制作。资料完全开源。
+, Title: 极简美/EFSM 279 C IOT/物联网/边缘计算
+Language: C
+Stars: 279
+HTML Content: EFSM(event finite state machine，事件驱动型有限状态机)，是一个基于事件驱动的有限状态机。使用EFSM可实现上百个状态、上千种事件处理，且可实现多重状态机和层次状态机。可应用在云后台微服务和嵌入式软件等各种平台中。
+, Title: peng-zhihui/XUAN-Bike 278 智能硬件
+Language: 
+Stars: 278
+HTML Content: 我把自行车做成了自动驾驶
+, Title: wenzheng/Super knob 273 C++ 智能硬件
+Language: C++
+Stars: 273
+HTML Content: 基于ESP32与无刷电机实现的超级旋钮
+, Title: orange-form/orange-flowable 269 flowable workflow 工作流 Java 低代码
+Language: Java
+Stars: 269
+HTML Content: 橙单中台化低代码生成器。可完整支持多应用、多租户、多渠道、工作流 (Flowable & Activiti)、在线表单、自定义数据同步、自定义Job、多表关联、跨服务多表关联、框架技术栈自由组合等。
+, Title: 格维融创开源社区GTC/MCS51-ELL 267 智能硬件
+Language: 
+Stars: 267
+HTML Content: 这是一个专门为增强型1T8051内核MCU设计的硬件抽象平台。
+, Title: 梦程MI/LuatOS-ESP32 257 C IOT/物联网/边缘计算
+Language: C
+Stars: 257
+HTML Content: LuatOS For ESP32,社区开源版项目
+, Title: 朱天龙 (Armink)/SFUD 251 C 智能硬件
+Language: C
+Stars: 251
+HTML Content: 一款使用 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库
+, Title: 格维融创开源社区GTC/MiniDSO-Pro 249 C 智能硬件
+Language: C
+Stars: 249
+HTML Content: B站老刘示波器Pro版本，在原版的基础上，扩展了测量负电压的功能，更新了UI设计，屏幕升级为1.3寸OLED屏。
+, Title: huangdf/seezoon-stack 249 vue3 vite SpringBoot Java 低代码
+Language: Java
+Stars: 249
+HTML Content: 一款基于当前最前沿的前端（Vue3 + Vite + Antdv）和后台（Spring boot）实现的低代码开发平台。
+, Title: 魔罗/ril 247 C 5G/通讯
+Language: C
+Stars: 247
+HTML Content: RIL是一款专门为嵌入式平台开发的无线通信模块(GSM/GPRS/CatM1/NB)管理框架，适用于资源受限物联网终端设备（单片机+无线蜂窝模组的方案），并提供物联网通信所需的基本功能，包含网络注册、连接管理、短信收发及Socket通信。
+, Title: schuck/cola_os 232 C IOT/物联网/边缘计算
+Language: C
+Stars: 232
+HTML Content: 300行代码实现多任务管理的OS，在很多MCU开发中，功能很简单，实时性要求不强，如果使用RTOS显得太浪费，任务多了管理不当又很乱，所以才会想起做一个轮询的任务管理。简单好用！CSDN:https://blog.csdn.net/ziqi5543/article/details/101512722
+, Title: D2C/lens 230 d2c 设计稿转代码 Sketch 低代码 JavaScript 低代码
+Language: JavaScript
+Stars: 230
+HTML Content: 一个通过智能算法将设计稿转换为前端页面的产品（design to code），是`低代码`平台的一个分支方向， 他的输入是设计稿产出是前端页面，中间无需值守即可自动完成
+, Title: 软硬件定制开发/SCH和PCB库_开源 229 智能硬件 智能硬件
+Language: 智能硬件
+Stars: 229
+HTML Content: 此项目为开源SCH库和PCB库，采用Altium Designer软件设计 包括（原理图库、元器件库、3D库）。希望大家都可以来贡献一份自己的力量。让SCH库和PCB库，更完善。
+, Title: 文慧的科技江湖/智慧农业物联网平台V3.0.1（大棚系统 渔业系统 控制系统 气象站 大田系统 溯源系统）（支持硬件） 227 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 227
+HTML Content: 【智慧农业、农业平台、智慧农业物联网平台V3.0.1（大棚系统 渔业系统 控制系统 气象站 大田系统 溯源系统）（支持硬件）】，从（设备端-APP端-平台端-管理端）全业务场景，开源版本毫无保留给个人及企业免费使用软件架构:SpringBoot、Mybatis、netty、vue、mqqt（可选）、redis（可选）。
+, Title: quickmsg/smqttx 223 Java Netty Reactor3 Java 消息服务器/消息队列 IOT/物联网/边缘计算
+Language: Java
+Stars: 223
+HTML Content: 基于Java实现的分布式MQTT集群，SMQTT的升级版本！欢迎大家使用，顺便动动小手Star一下!
+, Title: UBML/ubml-sdk 223 Java 低代码
+Language: Java
+Stars: 223
+HTML Content: 本仓库基于UBML统一业务建模语言中的建模标准（ubml-standard），提供了面向工业管理软件（经营管理应用类型）的UBML低代码建模体系Java语言实现
+, Title: matrixy/jtt808-simulator 222 Java 自动驾驶/无人机
+Language: Java
+Stars: 222
+HTML Content: 基于JT/T 808协议实现的终端模拟程序
+, Title: 青蓝pisces/NorthFrame 216 C 智能硬件
+Language: C
+Stars: 216
+HTML Content: NorthFrame 单片机极简图形化状态机框架 讨论QQ群：431600056
+, Title: ECBM工作室/基于STC8系列的ECBM函数库V3 215 C 智能硬件
+Language: C
+Stars: 215
+HTML Content: 该库为ECBM的发行版的V3版本，是基于STC8单片机的外设函数库，目前已经支持STC8全型号。外设部分会逐渐完善，同时由于stc8型号众多，不能一一实机测试，如有不适配的型号请留言。 STC8是目前51单片机里最好用的系列，拥有最多8K的SRAM、64K的Flash、5个定时器、4个串口。全系列都带IIC和SPI，大部分带ADC。STC8H还带有硬件USB。
+]

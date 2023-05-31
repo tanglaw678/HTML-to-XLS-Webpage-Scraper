@@ -1,0 +1,61 @@
+[Title: Sam/iotgateway GVP 1K 工业物联网 数据采集网关 plc Scada 网关 C# IOT/物联网/边缘计算
+Language: C#
+Stars: 1K
+HTML Content: 基于.NET6的跨平台物联网网关。通过可视化配置，轻松的连接到你的任何设备和系统(如PLC、扫码枪、CNC、数据库、串口设备、上位机、OPC Server、OPC UA Server、Mqtt Server等)，从而与 Thingsboard、IoTSharp或您自己的物联网平台(MES、SCADA)进行双向数据通讯。提供简单的驱动开发接口；当然也可以进行边缘计算。
+, Title: morixinguan/MCU产品级项目收集 1K C 智能硬件
+Language: C
+Stars: 1K
+HTML Content: 该仓库主要上传平时从Github/码云收集的一些大佬们上传的产品级项目，可能是基于STM32的，也可能是基于其它芯片方案的等等，如有违规，请联系我删除
+, Title: bean/BabyOS GVP 974 C 智能硬件
+Language: C
+Stars: 974
+HTML Content: 专为MCU项目开发提速的代码框架
+, Title: 稀饭放姜/iRTU 949 DTU 物联网 4G 透传 云平台 Lua 智能硬件
+Language: Lua
+Stars: 949
+HTML Content: 无需编程，简单配置就能将数据对接到云端的iRTU/DTU！轻松实现物联网！
+, Title: java110/HC物联网平台 932 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 932
+HTML Content: HC物联网平台是一款小区硬件管理的物联网管理平台，主要对接各大厂商门禁设备，道闸设备，监控设备，智能锁和充电桩等，支持http mqtt comnet 协议 方便和各大小区云平台对接 目前我们对接门禁有月轮门禁，伊兰度和锐目物联，目前门禁+道闸已经商用加群777620972
+, Title: quickmsg/mqtt-cluster 925 mqtt Netty reactor 物联网 高并发 Java 消息服务器/消息队列 IOT/物联网/边缘计算
+Language: Java
+Stars: 925
+HTML Content: 一款高性、高吞吐量、高扩展性的物联网mqtt集群broker！支持千万级+链接，同时支持自定义扩展功能，功能非常强大！
+, Title: dgiot开源社区/dgiot-mqtt2eventbus 915 mqtt EventBus dgiot 微服务 Vue IOT/物联网/边缘计算
+Language: 
+Stars: 915
+HTML Content: 物联网协议微服务，实现vue前端页面的mqtt转vue的消息微服务，让vue各个组件之间通过消息通讯，而不是通过函数调用交互，从而实现代码解耦，类似移动端app的消息通讯架构：消息服务（mqtt）--》 eventbus--》view
+, Title: dgiot开源社区/dgiot_topo 877 影子设备 数字孪生 桥接 物模型 物联网平台 IOT/物联网/边缘计算
+Language: 
+Stars: 877
+HTML Content: dgiot_topo通道是影子设备与前端组态页面之间的桥接通道，实时订阅dgiot_task通道中解析成物模型的消息，将物模型消息格式转换成knova组态json格式推送到前端组态页面，实现大屏上设备数据的实时更新
+, Title: MindSpore/mindquantum GVP 861 Python 量子计算
+Language: Python
+Stars: 861
+HTML Content: MindQuantum is a general software library supporting the development of applications for quantum computation.
+, Title: iBytePro/TCP Gateway 836 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 836
+HTML Content: 通过在云端进行智能边缘核心设备的建立、身份制定、策略规则制定、函数编写，然后生成配置文件下发；物联网设备网关技术架构设计（Session 管理、心跳管理、数据上行、数据下行）
+, Title: 云网软件/OA协同办公系统，流程专家（自带低代码开发平台） 834 OA系统 低代码 工作流 OA办公 协同办公 Java 企业应用系统 低代码
+Language: Java
+Stars: 834
+HTML Content: ⭐⭐⭐⭐⭐基于企业级工作流引擎，深入研发15年，服务过1000多家客户，基于Springboot+Vue3框架。拥有成熟的OA办公功能，自带低代码开发平台，可以快速搭建工作流、人事管理、CRM、办公用品、项目管理等功能，让您可以快速上手、快速实施、快速交付！
+, Title: vdpAdmin/Vue3低代码可视化表单 802 可视化表单 低代码表单 工作流表单 Element表单 表单设计器 JavaScript 低代码
+Language: JavaScript
+Stars: 802
+HTML Content: 一款高效的Vue 3低代码表单、工作流表单，包含表单设计器和表单渲染器，可视化设计，一键生成源码，享受更多摸鱼时间。
+, Title: 山东云则/IoTLink GVP 801 IoTLink RuoYi-Vue SpringBoot RabbitMQ 物联网卡 Java IOT/物联网/边缘计算
+Language: Java
+Stars: 801
+HTML Content: 基于 SpringBoot、Vue、Mybatis、RabbitMq、Mysql、Redis 等开发的轻量级的物联网综合业务支撑平台。支持物联网卡、物联网模组、卡+模组融合管理。提供状态、资费、客户、进销存、合同、订单、续费、充值、诊断、账单等功能。平台可同时接入中国移动、中国电信、中国联通、第三方物联网卡进行统一管理。逐步完善平台，助您快速接入物联网，让万物互联更简单。
+, Title: 肖昆/XTDrone GVP 794 无人机 仿真 集群 无人系统 机器人 Python 自动驾驶/无人机
+Language: Python
+Stars: 794
+HTML Content: 基于PX4、ROS和Gazebo的无人机通用仿真平台
+, Title: 嘉立创SMT/JLCSMT_LIB 786 其他 智能硬件
+Language: 其他
+Stars: 786
+HTML Content: 可贴片元器件列表_基础库
+]

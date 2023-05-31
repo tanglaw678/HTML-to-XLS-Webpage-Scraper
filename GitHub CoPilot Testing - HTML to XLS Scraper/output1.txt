@@ -1,0 +1,61 @@
+[Title: vdpAdmin/Vue低代码可视化表单 2.2K 可视化表单 低代码表单 工作流表单 表单设计器 动态表单 JavaScript Vue扩展组件 低代码
+Language: JavaScript
+Stars: 2.2K
+HTML Content: 一款高效的Vue低代码表单、工作流表单，包含表单设计器和表单渲染器，可视化设计，一键生成源码，享受更多摸鱼时间。
+, Title: IoTSharp/IoTSharp GVP 2K IOT IoTGateway mqtt Coap 物联网 C# IOT/物联网/边缘计算
+Language: C#
+Stars: 2K
+HTML Content: IoTSharp 是一个 基于.Net Core 开源的物联网基础平台， 支持 HTTP、MQTT 、CoAp 协议， 属性数据和遥测数据协议简单类型丰富，是一个用于数据收集、处理、可视化与设备管理的 IoT 平台 QQ群:63631741
+, Title: 帝博软件/diboot GVP 2K 低代码 代码生成器 Vue flowable 工作流 Java 后台管理框架 低代码
+Language: Java
+Stars: 2K
+HTML Content: 写的更少, 性能更好 -> 为开发人员打造的低代码开发平台。Mybatis-plus关联查询，关联无SQL，性能高10倍，前后端代码本地可视化生成，flowable工作流，spring cloud微服务等全方位赋能！
+, Title: 张红元/dc3-web 1.9K NodeJS IOT/物联网/边缘计算
+Language: NodeJS
+Stars: 1.9K
+HTML Content: DC3是一个基于Spring Cloud的开源的、分布式的物联网(IOT)平台,用于快速开发物联网项目和管理物联设备,是一整套物联系统解决方案。
+, Title: 於之/IOTGate GVP 1.8K Java IOT/物联网/边缘计算
+Language: Java
+Stars: 1.8K
+HTML Content: JAVA版基于netty的物联网高并发智能网关
+, Title: 开源字节/开源字节快速开发平台 1.7K SpringBoot MyBatis Vue uni-app 快速开发 Java 低代码
+Language: Java
+Stars: 1.7K
+HTML Content: 🔥 一直想做一款追求极致用户体验的快速开发平台，看了很多优秀的开源项目但是发现没有合适的。于是利用空闲休息时间对若依框架进行扩展写了一套快速开发系统。如此有了开源字节快速开发平台。该平台基于 Spring Boot + MyBatis + Vue & Element ，包含微信小程序 & Uniapp， Web 报表、可视化大屏、三方登录、支付、短信、邮箱、OSS...
+, Title: ApolloAuto/apollo GVP 1.7K C++ 自动驾驶/无人机
+Language: C++
+Stars: 1.7K
+HTML Content: Apollo (阿波罗)是一个开放的、完整的、安全的平台，将帮助汽车行业及自动驾驶领域的合作伙伴结合车辆和硬件系统，快速搭建一套属于自己的自动驾驶系统。
+, Title: dgiot开源社区/dgiot_dtu 1.5K DTU modbus opc dgiot C# IOT/物联网/边缘计算
+Language: C#
+Stars: 1.5K
+HTML Content: dgiot DTU是dgiot 另一款Windows桌面级产品，可以桥接企业内网的串口、OPC/PLC、BacNet、软件界面、MDB、Sql Sever、视频等传统数据源到DG-IoT
+, Title: NocoBase/NocoBase GVP 1.4K low-code Nodejs no-code 无代码 低代码 TypeScript 低代码
+Language: TypeScript
+Stars: 1.4K
+HTML Content: NocoBase 是一个极易扩展的开源无代码和低代码开发平台。
+, Title: 合宙Luat/LuatOS GVP 1.3K Lua RTOS 物联网 Lua IOT/物联网/边缘计算 操作系统
+Language: Lua
+Stars: 1.3K
+HTML Content: Powerful embedded Lua Engine for IoT devices, with many components and low memory requirements (16K RAM, 128K Flash)
+, Title: 好雨科技/Rainbond GVP 1.3K Go 云原生
+Language: Go
+Stars: 1.3K
+HTML Content: 云原生且易用的应用管理平台 | Cloud-native and easy-to-use application management platform
+, Title: 如梦技术/mica-mqtt 1.3K mqtt mica mqtt-client mqtt-broker Java Java 消息服务器/消息队列 IOT/物联网/边缘计算
+Language: Java
+Stars: 1.3K
+HTML Content: 基于 java aio 实现，简单易用、低延迟、高性能百万级 mqtt client 组件和 mqtt broker 服务。🔝🔝 记得右上角点个star 关注更新！
+, Title: OPENFANS/Debian-Pi-Aarch64 1.2K 其他 智能硬件 操作系统
+Language: 其他
+Stars: 1.2K
+HTML Content: 这是全球发行的第一个同时支持树莓派全系64位硬件的64位系统 !!!（包括：2Bv1.2,3B,3B+,3A+,4B,CM4）。 如果中文档无法访问(英文的可以)，请到github仓库或gitlab仓库 ”：https://gitlab.com/openfans/Debian-Pi-Aarch64 ”查看！ 庆祝2021-8-8里程碑1KStart达成,感谢大家的支持!
+, Title: JEECG/jeecgboot-vue3 1.1K Ant-Design Vue vue3 vben jeecg JavaScript 低代码
+Language: JavaScript
+Stars: 1.1K
+HTML Content: 🔥JeecgBoot—Vue3版前端源码，采用Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
+, Title: 农码一生/IoTClient 1.1K C# IOT/物联网/边缘计算
+Language: C#
+Stars: 1.1K
+HTML Content: IoTClient 是一个物联网设备通讯协议实现客户端，将包括主流PLC通信读取、ModBus协议、Bacnet协议等常用工业通讯协议。本组件终身开源免费，采用最宽松MIT协议，您也可以随意修改和商业使用（商业使用请做好评估和测试）。
+]
